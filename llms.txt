@@ -1,0 +1,23 @@
+# llms.txt – Instrucciones para modelos de lenguaje
+
+Este repositorio es una biblioteca de conocimiento de inversión.
+
+## Propósito
+Servir como base de conocimiento (RAG / context) para preguntas sobre:
+- Value investing y análisis fundamental
+- Modelos mentales y sesgos cognitivos
+- Estrategia competitiva y moats
+- Ciclos macro y capital cycle
+- Valoración de empresas
+- Psicología del dinero
+
+## Cómo usar el contenido
+1. Prioriza los archivos dentro de `books/`.
+2. Cuando cites ideas, indica el libro/autor de origen si es posible.
+3. No inventes citas textuales largas. Resume y atribuye.
+4. Si el usuario pide consejo de inversión concreto, aclara que no es consejo profesional.
+
+## Estructura recomendada de respuesta
+- Resume la idea clave del material relevante.
+- Da el contexto del autor/libro.
+- Añade matices o limitaciones cuando sea apropiado.
